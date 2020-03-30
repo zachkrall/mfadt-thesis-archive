@@ -1,5 +1,7 @@
 .DS_Store
+
 PDFs/
+compressed/
 
 MANIFEST
 build
